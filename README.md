@@ -58,9 +58,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Verilog       2 hrs    ████████████████▒░░░░░░░░   60.00 %
-SystemVerilog  4 hrs    █████▒░░░░░░░░░░░░░░░░░░░   25.00 %
-Python        4 hrs    ██░░░░░░░░░░░░░░░░░░░░░░░   15.00 %
+SystemVerilog  4 hrs    ███████████░░░░░░░░░░░░░░   40.00 %
+Python        4 hrs    █████████░░░░░░░░░░░░░░░░   40.00 %
+Verilog       2 hrs    █████░░░░░░░░░░░░░░░░░░░░   20.00 %
 ```
 <!--END_SECTION:waka-->
 
