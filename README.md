@@ -53,11 +53,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shivam-Shukla-GIT&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## ⏳ Weekly Coding Time (Tracked by WakaTime)
+> The following stats represent the **coding hours spent in different languages over the past week**.
+
 <!--START_SECTION:waka-->
 ```text
-Verilog       4 hrs 30 mins    ████████████████▒░░░░░░░░   75.00 %
-SystemVerilog 1 hr 15 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.83 %
-Python        15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   4.17 %
+Verilog       2 hrs    ████████████████▒░░░░░░░░   60.00 %
+SystemVerilog  4 hrs    █████▒░░░░░░░░░░░░░░░░░░░   25.00 %
+Python        4 hrs    ██░░░░░░░░░░░░░░░░░░░░░░░   15.00 %
 ```
 <!--END_SECTION:waka-->
 
